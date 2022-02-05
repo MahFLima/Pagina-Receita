@@ -1,8 +1,10 @@
 # Pagina Receita
 
-<p> Desafio Discover <a href="https://rocketseat.com.br">Rocketseat</a></p>
+<p align="end"> Desafio Discover <a href="https://rocketseat.com.br">Rocketseat</a></p>
 
-<img align="center" scr="./assets/site.png"/>
+<div align="center">
+<img src="./assets/site.png">
+</div>
 
 # 📃 Projeto
 
